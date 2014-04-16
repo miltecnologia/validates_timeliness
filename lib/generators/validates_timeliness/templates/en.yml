@@ -4,6 +4,7 @@ en:
       invalid_date: "is not a valid date"
       invalid_time: "is not a valid time"
       invalid_datetime: "is not a valid datetime"
+      not_is_at: "must not be at %{restriction}"
       is_at: "must be at %{restriction}"
       before: "must be before %{restriction}"
       on_or_before: "must be on or before %{restriction}"
